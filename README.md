@@ -1,4 +1,4 @@
-# Это 4ая лабораторная работа по РИП.
+# Это 4-ая лабораторная работа по РИП.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
